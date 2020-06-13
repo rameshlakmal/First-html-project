@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<h1 style="background-color:#20B2AA;"><em><b>Welcome To Nanodegree</b></em><h1>
+<body>
+<h2>Think like a programmer</h2><br>
+<b>1) proceural thinking</b><br><br>
+Take a big problem and break the solution into few steps.<br><br>
+<b>2) Abstract thinking</b><br><br>
+Abstract thinking unable to presant physically.It is related to symbolic thinking,which uses the substitution of a symbol for an object or idea.<br><br>
+<b>3) Systematic Debugging</b><br><br>
+Systematicaly identifying the problem and then track down all the possible causes untill find the problem.<br><br>
+<b>4) Technologycal Empathy</b><br><br>
+How computer sees things and think about it in that way.<br><br>
+<b>5) Systems Thinking</b><br><br>
+<h2> World Wide Web (WWW) </h2><br>
+  Worls Wide Web is a collection of HTML documents.links between these pages call as
+  "Hyper Links".World Wide Web invented in early 1990s,now it has over 30 billion pages.<br><br>
+  <div style="background-color:tomato;">Components of the Web</div><br><br>
+  <img src="G:\udacity\New folder"><br><br>
+  1) Browser<br>
+  2) Internet<br>
+  3) HTTP<br>
+  4) Severs<br><br>
+  <h2>HTML</h2><br><br>
+  <b>HTML</b>-   <em>Hyper Text Markup Language </em><br>
+  HTML documents are the heart of the web.HTML made up of <br><br>
+  1) Text content(what you see)<br>
+  2) Markup(what it lokks like)<br>
+  3) Referrence to other content(Images , vedios)<br>
+  4) Links to other pages<br><br>
+  <h2>HTML Tags</h2><br><br>
+  <div style="background-color:#00CED1;">1) Bold Tag :- < b > content < b ></div><br>
+  <div style ="background-color:Darkorchid;">2) em Tag(Italics):- < em > content < /em ></div><br>
+  <div style="background-color:gold;">3) HTML Attributes :- < Tag ATTR="value"> content < /tag></div>
+  <span>we use "< a >" tag to add links</span><br>
+  <span><b>EX :- < a href ="www.reddit.com"> content < /a ></b></span><br><br>
+  <div style="background-color:greenyellow;">4) Image Tag :-  < img > :- images </div>
+  <span>EX :- < img src ="url" alt ="text"> </span><br>
+  <em>Image tag doesn't have a closeing tag because it has no content .So we call it as <b>"Void Tag"</b></em><br><br>
+<div style="background-color:DeepPink;">5) Line break :- < br > , < p ></div> <br>
+< br > tag is a void tag(inline)<br>
+< p > tag is a paragrph tag(block)<br><br>
+<em><b>< br > tag use to break lines multiple times and it hasn't a closeing tag(VOID TAG),
+   < p > tag also doing the same thing
+   but the difference is when you useing
+   < p > tag it will create a invisible box around your content it helps to design your content
+ you can learn more thins about that in CSS sessions.</b></em><br><br>
+ <div style="background-color:Crimson;">6) span / div </div><br>
+ <em><b>difference between < span > and < div > tag is div tag create a
+ invisible box around the content and both tags have closeing tags.</b></em><br><br><br>
+ <h2>Structure of a HTML Document</h2><br>
+ <div style="background-color:LightSkyBlue;">< ! DOCTYPE HTML ><br>
+ < html ><br>
+ < head ><br>
+ < title > text < title ><br>
+ < /head >
+ < body ><br>
+ < b > content < /b ><br>
+< /body >
+< /html ></div>
